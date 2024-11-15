@@ -1,0 +1,14 @@
+What were some challenges you faced while making this app?
+To build the sturcture up is pretty hard. Especially implementing the small functions.
+
+Given more time, what additional features, functional or design changes would you make
+The flag function, which is useful. As well as the auto clear. You can see some of them in my version. But it is not working very well...
+
+What assumptions did you make while working on this assignment?
+How I working with the components and the main part. It is very hard to match them at the beginning.
+
+How long did this assignment take to complete?
+LONGLONGLONGLONG TIME...
+
+(Optional) Any feedback on this challenge?  What did you like or not like about implementing this project?
+It is a good one. But hard to me, personally.
